@@ -1,4 +1,4 @@
-function count() {
+function firstFunction() {
   return "Hello World"
 }
 
