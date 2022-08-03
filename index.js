@@ -5,14 +5,14 @@ function firstFunction() {
 console.log("what places do we love")
 
 function secondFunction() {
-  return "I love Seattle"
+  return "I love Rome"
 }
 
 function thirdFunction() {
-  return "I love New York"
+  return "I love Tokyo"
 }
 
 function fourthFunction() {
-  return "I love Portland"
+  return "I love Athens"
 }
 
